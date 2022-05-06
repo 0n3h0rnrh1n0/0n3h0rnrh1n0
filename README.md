@@ -1,8 +1,4 @@
-- 👋 Hi, I’m Rohan Das
-- 👀 I’m an Ethical Hacker
-- 🌱 I’m currently pursuing BCA
-- 💞️ I’m a server side & network pentester and also a red teamer
-- 📫 Reach me at rohan1das1@gmail.com
+
 
 <!---
 0n3h0rnrh1n0/0n3h0rnrh1n0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
